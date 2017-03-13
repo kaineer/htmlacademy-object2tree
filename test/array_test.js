@@ -23,7 +23,7 @@ describe('Array convert', () => {
   });
 
   context('array with elements', () => {
-    const array = [1, [2]];
+    const array = [1, [false]];
     const result = convert(array);
 
     it('should have two elements', () => {
