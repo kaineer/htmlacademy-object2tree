@@ -1,0 +1,15 @@
+{
+  "name": "@htmlacademy/object2tree",
+  "version": "0.1.0",
+  "description": "Convert object into AST",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "ast"
+  ],
+  "author": "Tangerine Cat <kaineer@gmail.com>",
+  "license": "ISC"
+}
